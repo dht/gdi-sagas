@@ -1,0 +1,17 @@
+npm WARN ignoring workspace config at /Users/dht/projects/gdi/packages/gdi-sagas/.npmrc 
+
+> @gdi/sagas@0.4.0 build
+> tsc & vite build
+
+vite v3.2.5 building for production...
+transforming...
+✓ 34 modules transformed.
+rendering chunks...
+dist/gdi-sagas.es.js   17.76 KiB / gzip: 4.31 KiB
+dist/gdi-sagas.es.js.map 47.35 KiB
+dist/gdi-sagas.umd.js   14.95 KiB / gzip: 4.15 KiB
+dist/gdi-sagas.umd.js.map 45.76 KiB
+
+[vite:dts] Start generate declaration files...
+[vite:dts] Declaration files built in 7990ms.
+

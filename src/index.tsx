@@ -1,0 +1,28 @@
+export { appSagas as biblo } from './saga.biblo.index';
+export { appSagas as campaigns } from './saga.campaigns.index';
+export { appSagas as carts } from './saga.carts.index';
+export { appSagas as comments } from './saga.comments.index';
+export { appSagas as dashboard } from './saga.dashboard.index';
+export { appSagas as deals } from './saga.deals.index';
+export { appSagas as devtools } from './saga.devtools.index';
+export { appSagas as docs } from './saga.docs.index';
+export { appSagas as events } from './saga.events.index';
+export { appSagas as factory } from './saga.factory.index';
+export { appSagas as knowledge } from './saga.knowledge.index';
+export { appSagas as leads } from './saga.leads.index';
+export { appSagas as login } from './saga.login.index';
+export { appSagas as mixer } from './saga.mixer.index';
+export { appSagas as money } from './saga.money.index';
+export { appSagas as orders } from './saga.orders.index';
+export { appSagas as ppl } from './saga.ppl.index';
+export { appSagas as products } from './saga.products.index';
+export { appSagas as rayl } from './saga.rayl.index';
+export { appSagas as settings } from './saga.settings.index';
+export { appSagas as soundboard } from './saga.soundboard.index';
+export { appSagas as source } from './saga.source.index';
+export { appSagas as studio } from './saga.studio.index';
+export { appSagas as tasks } from './saga.tasks.index';
+export { appSagas as things } from './saga.things.index';
+export { appSagas as voice } from './saga.voice.index';
+
+console.log('sagas latest2');

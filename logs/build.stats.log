@@ -1,0 +1,14 @@
+{
+    "errorCount": 0,
+    "bundleSizes": {
+        "size": 4249,
+        "sizeKb": "4.15KB",
+        "esSize": 18186,
+        "esSizeGzip": 4413,
+        "esMapSize": 48486,
+        "umdSize": 15308,
+        "umdSizeGzip": 4249,
+        "umdMapSize": 46858
+    },
+    "isSuccess": true
+}
